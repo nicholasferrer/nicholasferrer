@@ -6,4 +6,4 @@
 
 #### Connect with me:
 - [Linkedin profile](https://www.linkedin.com/in/ferrernicholas/)
-- [Personal email](nicholasferrer@hotmail.com)
+- [Personal email](mailto:nicholasferrer@hotmail.com)
