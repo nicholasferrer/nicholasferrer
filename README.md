@@ -3,7 +3,7 @@
 
 
 #### About me:
-- 💼 Software Developer at [VEM](https://www.vibraenergia.com.br/vem-conveniencia)
+- 💼 Software Developer at [Americas Trading Group](https://www.americastg.com/)
 - 🎓 Bachelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 
 #### Connect with me:
