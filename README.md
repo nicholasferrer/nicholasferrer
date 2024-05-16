@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicholas Ferrer</h1>
-<h3 align="center">Full Stack Developer from Rio de Janeiro, Brazil 🇧🇷</h3>
+<h3 align="center">Software Engineer from Rio de Janeiro, Brazil 🇧🇷</h3>
 
 
 #### About me:
-- 💼 Software Developer at [Americas Trading Group](https://www.americastg.com/)
+- 💼 Software Engineer at [Americas Trading Group](https://www.americastg.com/)
 - 🎓 Bachelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 
 #### Connect with me:
